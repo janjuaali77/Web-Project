@@ -1,2 +1,3 @@
 # Web-Project
-it contains html file for my university project
+Muhammad Ali Janjua.
+html file for my University Assignment.
